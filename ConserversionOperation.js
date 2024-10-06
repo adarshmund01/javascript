@@ -1,3 +1,4 @@
+//**********************************Conserversion**********************
 // //let score ="55abc"
 
 
@@ -28,4 +29,36 @@
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(stringNumber)
+//console.log(stringNumber)
+
+
+
+
+/******************************************Operation*************************** */
+
+
+let value = 3
+
+let negValue = -value
+//console.log(negValue)
+
+//console.log(1+1)
+
+let str1 = "adarsh"
+
+let str2 = "my man"
+
+str3 = str1 + str2
+//console.log(str3)
+
+let GameCounter = 100 
+++GameCounter
+//prefix - value will add first
+GameCounter++
+//postFix value will add after 
+//console.log(GameCounter)
+
+const MyFunction = function(){
+       console.log("helloWorld");
+}
+MyFunction();
