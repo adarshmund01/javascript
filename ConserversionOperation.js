@@ -58,7 +58,10 @@ GameCounter++
 //postFix value will add after 
 //console.log(GameCounter)
 
-const MyFunction = function(){
-       console.log("helloWorld");
-}
-MyFunction();
+// const MyFunction = function(){
+//        console.log("helloWorld");
+// }
+let name = 30
+console.log(name);
+
+console.log(typeof name)
