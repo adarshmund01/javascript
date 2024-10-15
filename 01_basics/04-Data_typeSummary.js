@@ -1,3 +1,5 @@
+//++++++++++++++++++++++memories++++++++++++++++
+
 
 //stack-used primitive
 //head-used-non-primitive
@@ -19,3 +21,4 @@ let userTwo = userOne
 userTwo.Email ="adsrh@gmail.com";
 console.log(userOne.Email);
 console.log(userTwo.Email);
+
