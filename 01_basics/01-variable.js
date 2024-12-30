@@ -5,3 +5,8 @@ accountCity = "jaipur"
 
 
 console.table([accountId, accountEmail, accountpassword, accountCity])
+
+/*
+prefer not to use var-keyword
+because of issue in block scope and functional scope 
+*/
