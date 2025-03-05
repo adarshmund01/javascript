@@ -54,11 +54,11 @@ str3 = str1 + str2
 //console.log(str3)
 
 let GameCounter = 100 
-++GameCounter
+++GameCounter//prefix - value will add first
 //prefix - value will add first
 GameCounter++
 //postFix value will add after 
-//console.log(GameCounter)
+//console.log(GameCounter) //output 102
 
 // const MyFunction = function(){
 //        console.log("helloWorld");
@@ -67,3 +67,5 @@ let name = 30
 console.log(name);
 
 console.log(typeof name)
+
+"1" + 2 + 3 // output 123 - first string then number will convert to string
