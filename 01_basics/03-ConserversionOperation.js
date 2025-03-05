@@ -1,6 +1,8 @@
 //**********************************Conserversion**********************
 // //let score ="55abc"
 
+let score = null  //null 
+console.log(score)
 
 // console.log(typeof score)
 
